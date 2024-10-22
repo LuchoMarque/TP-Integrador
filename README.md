@@ -8,6 +8,7 @@ El proyecto cuenta con las siguientes características:
 -- Modificar Productos existente
 -- Bucar productos mediante una barra de busqueda
 -- Filtrar productos por categoría y ordenanarlo según mayor y menor precio
+-- 
 
 ## Ejecución:
 Descargar el archivo ZIP y ejecutarlo en el localhost.(Es probable que no vea ningún producto ya que hay que cargarlos.)
